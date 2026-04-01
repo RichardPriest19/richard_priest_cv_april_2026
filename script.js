@@ -799,7 +799,7 @@ function renderCVContents() {
      4. On first submission Formspree will send a confirmation email —
         click the link in it to activate the form.
 ═══════════════════════════════════════════════════════════════════ */
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mgooeolj';
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xlgolgwd';
 
 async function submitContactForm() {
   const name    = document.getElementById('f-name').value.trim();
