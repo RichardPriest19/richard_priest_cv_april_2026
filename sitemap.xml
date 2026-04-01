@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml – Richard Priest | Senior Technology Executive
+  TODO: Replace all instances of https://richardpriest.github.io
+        with your actual GitHub Pages URL before deploying.
+  Regenerate lastmod dates whenever you update content.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home / Profile overview -->
+  <url>
+    <loc>https://richardpriest.github.io/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Career History section (hash-based SPA anchor) -->
+  <url>
+    <loc>https://richardpriest.github.io/#career</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Regulatory Register section -->
+  <url>
+    <loc>https://richardpriest.github.io/#regulatory</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Governance & Frameworks section -->
+  <url>
+    <loc>https://richardpriest.github.io/#governance</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact section -->
+  <url>
+    <loc>https://richardpriest.github.io/#contact</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Download CV section -->
+  <url>
+    <loc>https://richardpriest.github.io/#download</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

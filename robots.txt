@@ -1,0 +1,9 @@
+# robots.txt – Richard Priest | Senior Technology Executive
+# https://richardpriest.github.io
+# TODO: Replace the domain below with your actual GitHub Pages URL
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap
+Sitemap: https://richardpriest.github.io/sitemap.xml
